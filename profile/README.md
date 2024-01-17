@@ -1,5 +1,6 @@
-## Hi there hermia👋
-
+## Hi there hermia-studio👋
+👩‍💻I'm focus on my [admin project](https://github.com/hermia-studio/admin-vue)
+🙋‍♀️I have completed a [webApp project](https://github.com/hermia-studio/shop-webapp-server)
 <!--
 
 **Here are some ideas to get you started:**
@@ -10,12 +11,4 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hermiablog&show_icons=true&show_icons=true&theme=vue)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hermia-studio&repo=shop-webapp-server&show_icons=true&show_icons=true&theme=vue)](https://github.com/hermia-studio/shop-webapp-server)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hermia-studio&repo=shop-webapp-vue&show_icons=true&show_icons=true&theme=vue)](https://github.com/hermia-studio/shop-webapp-vue)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hermia-studio&repo=admin-vue&show_icons=true&show_icons=true&theme=vue)]([https://github.com/hermia-studio/shop-webapp-server](https://github.com/hermia-studio/admin-vue))
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hermiablog&layout=compact&show_icons=true&show_icons=true&theme=vue)](https://github.com/hermiablog)
